@@ -12,3 +12,7 @@ Description: added a falling seed that falls when user presses play I also set t
 
 Question 4: https://editor.p5js.org/zachary.w.smith/sketches/XUmxmKTSK
 Description: Made the seed fall in a random location when the user clicks, and disappears when it hits the ground.
+
+Question 5: https://editor.p5js.org/zachary.w.smith/sketches/AQWGBXq77
+Description: Added a score based on the frame count, each time you catch the seed the ammount of frames is added to the top right. Also added the sungless when the 
+seed is in contact. 
